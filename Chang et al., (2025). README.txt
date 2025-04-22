@@ -1,0 +1,14 @@
+###Scientific publication
+
+Chang et al., (2025)
+
+Riverine network size determined major driving factors of the composition and diversity of aquatic invertebrate communities in a multi-tributary mountain river basin
+
+Water Research
+
+10.1016j.watres.2025.123257
+
+
+### Attention
+The data used in this folder i.e., env.csv and spe.csv were generated from AI.
+
