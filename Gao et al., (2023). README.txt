@@ -1,0 +1,14 @@
+### Publications
+
+Gao et al., (2023)
+
+Drought-induced changes in hydrological and phenological interactions modulate waterbird habitats dynamics
+
+Journal of Hydrology
+
+10.1016/j.jhydrol.2023.130228
+
+
+### Attention
+
+The data in this folder, i.e., env+spe.csv was generated from AI.
